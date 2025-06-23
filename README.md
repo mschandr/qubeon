@@ -36,7 +36,7 @@ By submitting a pull request, you agree that your contribution is licensed under
 ## 📬 Contact
 
 For commercial licensing or collaboration, reach out to:
-**[your_email_here]**
+**mark dot dhas at gmail dot com**
 
 ---
 
