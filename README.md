@@ -18,24 +18,24 @@
 
 ## 🚫 License
 
-This project is licensed under the **Qubeon³ Shared Source License v1.0**.  
+This project is licensed under the **Qubeon³ Shared Source License v1.0**.
 You may use, modify, and study this software for **non-commercial** purposes only.
 
-**Commercial use requires written permission.**  
-See [`LICENSE.txt`](./LICENSE.txt) for full terms.
+**Commercial use requires written permission.**
+See [`License.txt`](./License.txt) for full terms.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome!  
+Contributions are welcome!
 By submitting a pull request, you agree that your contribution is licensed under the same Shared Source License and that commercial rights remain with the project creator unless otherwise agreed upon.
 
 ---
 
 ## 📬 Contact
 
-For commercial licensing or collaboration, reach out to:  
+For commercial licensing or collaboration, reach out to:
 **[your_email_here]**
 
 ---
