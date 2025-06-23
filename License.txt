@@ -1,0 +1,33 @@
+Qubeon³ Shared Source License v1.0
+
+Copyright (c) 2025 Mark Dhas
+
+1. Permission to Use and Modify
+You may view, use, and modify the source code of this project for non-commercial purposes only. This includes personal projects, academic research, or internal tools not offered commercially.
+
+2. No Commercial Use Without Permission
+You may not:
+- Sell or license this software, or any modified version of it.
+- Offer it as a paid service (SaaS, hosted product, or API).
+- Include it in a commercial product or bundle.
+
+If you wish to use this software for commercial purposes, you must obtain a separate commercial license from the author.
+
+3. Creator Rights
+The original creator retains full and unrestricted rights to:
+- Use, modify, license, sell, or commercialize the software in any form.
+- Re-license it under different terms at their discretion.
+
+4. Contributions
+By contributing to this project (e.g., via pull requests), you agree that:
+- Your contributions are licensed to the project under this same license.
+- You waive any commercial rights to your contributions unless otherwise agreed to in writing with the project owner.
+
+5. No Warranty
+This software is provided "as is", without warranty of any kind. The author is not liable for any damages arising from its use.
+
+---
+
+This license is inspired by modern source-available licensing models such as those used by Elastic, Sentry, and MongoDB, but adapted for the needs of Qubeon³.
+
+
