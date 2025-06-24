@@ -78,6 +78,18 @@ You could read the above as:
 
 These mirror and extend relational operations like `SELECT`, `PROJECT`, and `JOIN`, but operate natively in cube space.
 
+### Operator Index
+
+SLICE: Filter cube cells based on values along specified axes.
+
+ALIGN: Conform axis order and cardinality across cubes.
+
+CONTRACT: Reduce cube by collapsing one or more axes using an aggregation function (e.g. sum, mean).
+
+TRANSPOSE: Rearrange the order of axes via permutation.
+
+REMAP: Change axis names or values (similar to projection or renaming).
+
 ## ✳️ Example Expression
 
 Let cube `𝒬` contain marketing data along axes: `campaign`, `device_type`, and `date`.
