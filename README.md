@@ -6,6 +6,20 @@
 
 ---
 
+## 📖 Why Qubeon³?
+
+Relational databases **flattened** the world into rows.
+NoSQL systems **scattered** it into blobs.
+Neither honored the **true shape** of real-world data.
+
+Qubeon³ is a cube-native engine — built from the ground up to store, query, and reason with **structured, multidimensional information**.
+
+We believe some data doesn’t belong in tables.
+It belongs in **cubes**.
+
+> Want the full rationale?
+> Read the [Qubeon³ Manifesto →](./MANIFESTO.md)
+
 ## 🔧 Features (Planned)
 
 - Native 3D (and nD) data modeling
@@ -22,7 +36,7 @@ This project is licensed under the **Qubeon³ Shared Source License v1.0**.
 You may use, modify, and study this software for **non-commercial** purposes only.
 
 **Commercial use requires written permission.**
-See [`License.txt`](./License.txt) for full terms.
+See [`LICENSE.txt`](./LICENSE.txt) for full terms.
 
 ---
 
