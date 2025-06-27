@@ -1,3 +1,8 @@
+<!-- NAVIGATION -->
+**Qubeon³ Documentation**  
+[⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [🔁 Transposition](TRANSPOSITION.md) | [⚙️ Operators Index](OPERATORS_INDEX.md)
+
+
 Transposition Identity in Q³ Calculus
 "Reorder the axes three times, return to the start — such is the symmetry of space."
 

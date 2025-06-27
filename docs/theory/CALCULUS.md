@@ -1,3 +1,7 @@
+<!-- NAVIGATION -->
+**Qubeon³ Documentation**  
+[⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [🔁 Transposition](TRANSPOSITION.md) | [⚙️ Operators Index](OPERATORS_INDEX.md)
+
 # Qubeon³ Relational Calculus Primer
 
 > "If tables were arithmetic, cubes are geometry."

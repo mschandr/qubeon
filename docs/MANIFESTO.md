@@ -1,3 +1,7 @@
+<!-- NAVIGATION -->
+**Qubeon³ Documentation**  
+[⬅️ Back to README](../README.md) | [📐 Calculus](theory/CALCULUS.md) | [🔁 Transposition](theory/TRANSPOSITION.md) | [⚙️ Operators Index](theory/OPERATORS_INDEX.md)
+
 # Qubeon³: The Cube Paradigm Manifesto
 
 > "Flat data is an artifact of legacy thinking." — Qubeon³
