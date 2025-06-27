@@ -23,7 +23,7 @@ We believe some data doesn’t belong in tables.
 It belongs in **cubes**.
 
 > Want the full rationale?
-> Read the [Qubeon³ Manifesto →](./MANIFESTO.md)
+> Read the [Qubeon³ Manifesto →](docs/MANIFESTO.md)
 
 ## 🔧 Features (Planned)
 
@@ -59,4 +59,9 @@ For commercial licensing or collaboration, reach out to:
 
 ---
 
+<!-- NAVIGATION -->
+
+**Qubeon³ Documentation**
+
+[📘 Manifesto](docs/MANIFESTO.md) | [📐 Calculus](docs/theory/CALCULUS.md) | [🔁 Transposition](docs/theory/TRANSPOSITION.md) | [⚙️ Operators Index](docs/theory/OPERATORS_INDEX.md)
 

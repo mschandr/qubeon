@@ -275,4 +275,8 @@ This project is open to all who share our vision — free to use, fork, and cont
 
 Join us in reshaping how data is shaped.
 
+<!-- NAVIGATION -->
+**Qubeon³ Documentation**
+
+[⬅️ Back to README](../README.md) | [📐 Calculus](theory/CALCULUS.md) | [🔁 Transposition](theory/TRANSPOSITION.md) | [⚙️ Operators Index](theory/OPERATORS_INDEX.md)
 

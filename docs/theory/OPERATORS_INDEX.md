@@ -2,6 +2,7 @@
 
 <!-- NAVIGATION -->
 **Qubeon³ Documentation**  
+
 [⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [🔁 Transposition](TRANSPOSITION.md) | [⚙️ Operators Index](OPERATORS_INDEX.md)
 
 > "Operators are the verbs of the Q³ language — slicing, reshaping, and reorienting the data cube."
@@ -95,4 +96,5 @@ Useful for projection-like operations or harmonizing external inputs.
 
 <!-- NAVIGATION -->
 **Qubeon³ Documentation**  
+
 [⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [🔁 Transposition](TRANSPOSITION.md) | [⚙️ Operators Index](OPERATORS_INDEX.md)

@@ -2,6 +2,7 @@
 
 <!-- NAVIGATION -->
 **Qubeon³ Documentation**  
+
 [⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [🔁 Transposition](TRANSPOSITION.md) | [⚙️ Operators Index](OPERATORS_INDEX.md)
 
 > "Reorder the axes three times, return to the start — such is the symmetry of space."
@@ -73,12 +74,10 @@ For all 3D arrays $`𝒬`$, transposing it three times by the same cyclic permut
 - Axis permutations form a closed, finite group
 - Enables formal transform symmetry checks across all Q³ operators
 
+---
+
 <!-- NAVIGATION -->
 Qubeon³ Documentation
+
 ⬅️ Back to README | 📘 Manifesto | 📐 Calculus | 🔁 Transposition | ⚙️ Operators Index
 
-yaml
-Copy
-Edit
-
----

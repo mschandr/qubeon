@@ -58,4 +58,5 @@ Let us define a cube-native formalism:
 
 <!-- NAVIGATION -->
 **Qubeon³ Documentation**
+
 [⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [🔁 Transposition](TRANSPOSITION.md) | [⚙️ Operators Index](OPERATORS_INDEX.md)
