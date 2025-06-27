@@ -14,7 +14,7 @@ For any cube or cuboid 𝒬 of dimension (X, Y, Z), a triple transposition of ax
 Formally:
 
 
-```lang=mathematica
+```math
 Transpose(Transpose(Transpose(𝒬, (1,2,0)), (1,2,0)), (1,2,0)) = 𝒬
 ```
 This holds for regular (e.g. 3×3×3) and irregular (e.g. 4×3×2) cubes.
@@ -32,7 +32,7 @@ A 3D transposition by (1,2,0) is a cyclic permutation of order 3. So:
 
 Therefore:
 
-`Transpose³ = Identity`
+$`Transpose³ = Identity`$
 
 ## 🧪 Code Verification
 
@@ -57,17 +57,17 @@ print("1x1x1:", triple_transpose_identity(np.random.rand(1, 1, 1)))
 ## 🧾 Propositional Form
 Let `π` be a cyclic permutation of axes (0,1,2):
 
-$\`T(𝒬, π)`\ applies the permutation
+$`T(𝒬, π)`$ applies the permutation
 
-$\`T³(𝒬, π) = 𝒬``
+$`T³(𝒬, π) = 𝒬`$
 
 We define the transpositional identity as:
 
-$\`∀𝒬 ∈ ℝ³, T³(𝒬) ≡ 𝒬`\
+$`∀𝒬 ∈ ℝ³, T³(𝒬) ≡ 𝒬``$
 
 Which reads:
 
-For all 3D arrays ($\`𝒬`\), transposing it three times by the same cyclic permutation returns the original.
+For all 3D arrays ($`𝒬`$), transposing it three times by the same cyclic permutation returns the original.
 
 ## 📍 Implications
 - Transposition is deterministic and lossless
