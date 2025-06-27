@@ -63,7 +63,7 @@ $`T³(𝒬, π) = 𝒬`$
 
 We define the transpositional identity as:
 
-$`∀𝒬 ∈ ℝ³, T³(𝒬) ≡ 𝒬``$
+$`∀𝒬 ∈ ℝ³, T³(𝒬) ≡ 𝒬`$
 
 Which reads:
 
