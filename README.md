@@ -1,8 +1,9 @@
-<!-- NAVIGATION -->
-**Qubeon³ Documentation**
-[📘 Manifesto](docs/MANIFESTO.md) | [📐 Calculus](docs/theory/CALCULUS.md) | [🔁 Transposition](docs/theory/TRANSPOSITION.md) | [⚙️ Operators Index](docs/theory/OPERATORS_INDEX.md)
-
 # Qubeon³
+<!-- NAVIGATION -->
+
+**Qubeon³ Documentation**
+
+[📘 Manifesto](docs/MANIFESTO.md) | [📐 Calculus](docs/theory/CALCULUS.md) | [🔁 Transposition](docs/theory/TRANSPOSITION.md) | [⚙️ Operators Index](docs/theory/OPERATORS_INDEX.md)
 
 **Qubeon³** is a cube-native data engine designed to replace flat, tuple-based relational systems with true multidimensional structures. Built for a dimensional world, Qubeon³ embraces the cube as the fundamental unit of data organization — enabling more intuitive queries, better performance for structured analytics, and alignment with modern AI and simulation workflows.
 

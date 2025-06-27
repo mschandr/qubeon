@@ -1,14 +1,16 @@
+# Qubeon³: The Cube Paradigm Manifesto
+
 <!-- NAVIGATION -->
-**Qubeon³ Documentation**  
+**Qubeon³ Documentation**
+
 [⬅️ Back to README](../README.md) | [📐 Calculus](theory/CALCULUS.md) | [🔁 Transposition](theory/TRANSPOSITION.md) | [⚙️ Operators Index](theory/OPERATORS_INDEX.md)
 
-# Qubeon³: The Cube Paradigm Manifesto
 
 > "Flat data is an artifact of legacy thinking." — Qubeon³
 
 ## 📦 The Problem
 
-### The history...
+### The history of the problem
 
 For 50 years, relational databases have dominated how we store and think about data. They were a brilliant solution in a world of:
 
