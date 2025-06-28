@@ -56,7 +56,62 @@ Let us define a cube-native formalism:
 
 ### Syntax Sketch
 
-<!-- NAVIGATION -->
-**Qubeon³ Documentation**
+```
+{ q | q ∈ 𝓈 ∧ q[axis1] ∈ A ∧ q[axis2] = v }
+```
 
+Where:
+
+- `𝓈` is a cube
+- `q` is a cube cell reference
+- `axis1`, `axis2` are axis selectors
+- `A` is a domain or subdomain
+- `v` is a scalar value
+
+> "Return all cells `q` in cube `𝓈` where axis1 is in set A and axis2 equals v."
+
+---
+
+## 📀 Cuboid Calculus
+
+> Theory and formalism for expressing spatial structures as logical objects.
+
+We define **cuboids** as 3D objects with orthogonal boundaries in Euclidean space that can be described using the minimal bounding rectangle approach.
+
+Each cuboid is defined by a minimum and maximum point in ℝ³.
+
+We denote a single cuboid as a 6-tuple of real numbers:
+
+```
+c = (xmin, ymin, zmin, xmax, ymax, zmax)
+```
+
+To express the set of all **valid** cuboids, we define:
+
+```
+q := { c ∈ ℝ⁶ : c₀ < c₃ ∧ c₁ < c₄ ∧ c₂ < c₅ }
+```
+
+This enforces that for any element `c` in set `q`, the minimums are strictly less than the corresponding maximums in each dimension — ensuring each tuple describes a non-degenerate cuboid with real spatial extent.
+
+---
+
+## 🧪 Sparse vs. Dense Cubes
+
+In classical data warehousing, a “cube” is often defined as a **dense** structure: a full block of values across all axis combinations.
+
+Q³ deliberately relaxes this assumption.
+
+> **In Q³, a cube is a set of axis-typed tuples.**\
+> There is no requirement for completeness across dimensions.
+
+This means:
+
+- Slices and projections may produce **sparse** or irregular subcubes
+- Operators still behave consistently, even when data coverage is partial
+- Cube validity in Q³ is structural (i.e., tuple shape), not density-based
+
+---
+
+**Qubeon³ Documentation**\
 [⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [🔁 Transposition](TRANSPOSITION.md) | [⚙️ Operators Index](OPERATORS_INDEX.md)
