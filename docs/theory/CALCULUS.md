@@ -1,7 +1,7 @@
 # Qubeon³ Relational Calculus Primer
 
 <!-- NAVIGATION -->
-**Qubeon³ Documentation**
+**Qubeon³ Documentation**\
 [⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [🔁 Transposition](TRANSPOSITION.md) | [⚙️ Operators Index](OPERATORS_INDEX.md)
 
 > "If tables were arithmetic, cubes are geometry."
@@ -62,13 +62,13 @@ Let us define a cube-native formalism:
 
 Where:
 
-- `𝓈` is a cube
-- `q` is a cube cell reference
-- `axis1`, `axis2` are axis selectors
-- `A` is a domain or subdomain
-- `v` is a scalar value
+- $`𝓈`$ is a cube
+- $`q`$ is a cube cell reference
+- $`axis1`$, $`axis2`$ are axis selectors
+- $`A`$ is a domain or subdomain
+- $`v`$ is a scalar value
 
-> "Return all cells `q` in cube `𝓈` where axis1 is in set A and axis2 equals v."
+> "Return all cells $`q`$ in cube $`𝓈`$ where axis1 is in set A and axis2 equals v."
 
 ---
 
