@@ -1,9 +1,8 @@
 # Transposition Identity in Q³ Calculus
 
 <!-- NAVIGATION -->
-**Qubeon³ Documentation**  
-
-[⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [🔁 Transposition](TRANSPOSITION.md) | [⚙️ Operators Index](OPERATORS_INDEX.md)
+**Qubeon³ Documentation**\
+[⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [✂️ Slice](SLICE.md) | [📤 Project](PROJECT.md) | [🔽 Contract](CONTRACT.md) | [🔁 Transposition](TRANSPOSITION.md) | [🧩 Align](ALIGN.md) | [🗺️ Operators Index](OPERATORS_INDEX.md)
 
 > "Reorder the axes three times, return to the start — such is the symmetry of space."
 
@@ -77,7 +76,6 @@ For all 3D arrays $`𝒬`$, transposing it three times by the same cyclic permut
 ---
 
 <!-- NAVIGATION -->
-Qubeon³ Documentation
-
-⬅️ Back to README | 📘 Manifesto | 📐 Calculus | 🔁 Transposition | ⚙️ Operators Index
+**Qubeon³ Documentation**\
+[⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [✂️ Slice](SLICE.md) | [📤 Project](PROJECT.md) | [🔽 Contract](CONTRACT.md) | [🔁 Transposition](TRANSPOSITION.md) | [🧩 Align](ALIGN.md) | [🗺️ Operators Index](OPERATORS_INDEX.md)
 
