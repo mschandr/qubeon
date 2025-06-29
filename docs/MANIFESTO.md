@@ -1,9 +1,8 @@
 # Qubeon³: The Cube Paradigm Manifesto
 
 <!-- NAVIGATION -->
-**Qubeon³ Documentation**
-
-[⬅️ Back to README](../README.md) | [📐 Calculus](theory/CALCULUS.md) | [🔁 Transposition](theory/TRANSPOSITION.md) | [⚙️ Operators Index](theory/OPERATORS_INDEX.md)
+**Qubeon³ Documentation**\
+[⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [✂️ Slice](SLICE.md) | [📤 Project](PROJECT.md) | [🔽 Contract](CONTRACT.md) | [🔁 Transposition](TRANSPOSITION.md) | [🧩 Align](ALIGN.md) | [🗺️ Operators Index](OPERATORS_INDEX.md)
 
 
 > "Flat data is an artifact of legacy thinking." — Qubeon³
@@ -276,7 +275,5 @@ This project is open to all who share our vision — free to use, fork, and cont
 Join us in reshaping how data is shaped.
 
 <!-- NAVIGATION -->
-**Qubeon³ Documentation**
-
-[⬅️ Back to README](../README.md) | [📐 Calculus](theory/CALCULUS.md) | [🔁 Transposition](theory/TRANSPOSITION.md) | [⚙️ Operators Index](theory/OPERATORS_INDEX.md)
-
+**Qubeon³ Documentation**\
+[⬅️ Back to README](../../README.md) | [📘 Manifesto](../MANIFESTO.md) | [📐 Calculus](CALCULUS.md) | [✂️ Slice](SLICE.md) | [📤 Project](PROJECT.md) | [🔽 Contract](CONTRACT.md) | [🔁 Transposition](TRANSPOSITION.md) | [🧩 Align](ALIGN.md) | [🗺️ Operators Index](OPERATORS_INDEX.md)
